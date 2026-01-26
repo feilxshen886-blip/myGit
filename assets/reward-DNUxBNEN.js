@@ -1,1 +1,0 @@
-import{z as t}from"./index-DyjCLrhz.js";const s=t("reward",{state:()=>({tableData:[]}),actions:{setTableData(a){this.tableData=a},addRow(a){this.tableData.push(a)},deleteRow(a){this.tableData.splice(a,1)}}});export{s as u};
