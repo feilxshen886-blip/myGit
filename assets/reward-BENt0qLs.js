@@ -1,1 +1,0 @@
-import{B as t}from"./index-DmoFOm-A.js";const s=t("reward",{state:()=>({tableData:[]}),actions:{setTableData(a){this.tableData=a},addRow(a){this.tableData.push(a)},deleteRow(a){this.tableData.splice(a,1)}}});export{s as u};
