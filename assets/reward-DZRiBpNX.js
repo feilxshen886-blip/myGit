@@ -1,0 +1,1 @@
+import{H as t}from"./index-CrIB74PH.js";const s=t("reward",{state:()=>({tableData:[],tableName:""}),actions:{setTableData(a){this.tableData=a},setTableName(a){this.tableName=a},addRow(a){this.tableData=[...this.tableData,a]},deleteRow(a){this.tableData.splice(a,1),this.tableData=[...this.tableData]}}});export{s as u};
