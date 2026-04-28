@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{r as a,c,a as t,o}from"./index-DcHYSNXV.js";const r="/myGit/assets/nn-GKTAw3mv.png",n={class:"container"},_=["src"],m={__name:"processchart",setup(i){const s=a(r);return(l,p)=>(o(),c("div",n,[t("img",{src:s.value,alt:"",class:"image"},null,8,_)]))}},u=e(m,[["__scopeId","data-v-6049ce71"]]);export{u as default};
